@@ -8,7 +8,7 @@ const Filter = ({ value, onChange }) => {
     
     return (
           <LabelFilter htmlFor={filterId}>
-                Fined contscts by name
+                Fined contacts by name
                 <InputFilter
                     id={filterId}
                     type="text"
